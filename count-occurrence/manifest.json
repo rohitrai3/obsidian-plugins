@@ -1,0 +1,10 @@
+{
+	"id": "count-occurrence",
+	"name": "Count Occurrence",
+	"version": "1.0.1",
+	"minAppVersion": "1.12.7",
+	"description": "Show number of occurrences in file.",
+	"author": "Rohit Rai",
+	"authorUrl": "https://rohitrai.dev",
+	"isDesktopOnly": false
+}
